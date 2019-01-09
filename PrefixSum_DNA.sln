@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefixSum_DNA", "PrefixSum_DNA\PrefixSum_DNA.csproj", "{EBC2A4AF-AD3B-4744-8793-8452C47BF082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC2A4AF-AD3B-4744-8793-8452C47BF082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC2A4AF-AD3B-4744-8793-8452C47BF082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC2A4AF-AD3B-4744-8793-8452C47BF082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC2A4AF-AD3B-4744-8793-8452C47BF082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC57B17E-0839-4EB7-93D4-D022EF37F91E}
+	EndGlobalSection
+EndGlobal
